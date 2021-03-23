@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BootlegRascal
-- 👀 I’m interested in Python, HTML, CSS, Javascript and attempting to fulfill the never ending thirst for knowlegde.
+- 👀 I’m interested in Python, HTML, CSS, Javascript and attempting to fulfill the never ending thirst for knowledge.
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on learning more python!
 - 📫 How to reach me Discord @ BootlegRascalM8#9290
